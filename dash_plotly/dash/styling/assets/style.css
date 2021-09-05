@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+}
+
+.container {
+  background-color: gray;
+  color: white;
+  padding: 2em;
+  margin: 1em auto auto auto;
+  width: 50em;
+}
+
+#random-scatter-graph {
+  width: 40em;
+  height: 30em;
+  margin: 2em auto auto auto;
+}
